@@ -1,0 +1,12 @@
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\bin\Debug\net6.0\NTP.Araclar.Contract.deps.json
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\bin\Debug\net6.0\NTP.Araclar.Contract.dll
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\bin\Debug\net6.0\NTP.Araclar.Contract.pdb
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\NTP.Araclar.Contract.csproj.AssemblyReference.cache
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\NTP.Araclar.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\NTP.Araclar.Contract.AssemblyInfoInputs.cache
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\NTP.Araclar.Contract.AssemblyInfo.cs
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\NTP.Araclar.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\NTP.Araclar.Contract.dll
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\refint\NTP.Araclar.Contract.dll
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\NTP.Araclar.Contract.pdb
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Contract\obj\Debug\net6.0\ref\NTP.Araclar.Contract.dll

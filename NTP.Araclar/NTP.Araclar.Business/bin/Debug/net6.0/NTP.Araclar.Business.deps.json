@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NTP.Araclar.Business/1.0.0": {
+        "dependencies": {
+          "NTP.Araclar.Contract": "1.0.0"
+        },
+        "runtime": {
+          "NTP.Araclar.Business.dll": {}
+        }
+      },
+      "NTP.Araclar.Contract/1.0.0": {
+        "runtime": {
+          "NTP.Araclar.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NTP.Araclar.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NTP.Araclar.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

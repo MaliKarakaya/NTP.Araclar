@@ -1,0 +1,15 @@
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\bin\Debug\net6.0\NTP.Araclar.Business.deps.json
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\bin\Debug\net6.0\NTP.Araclar.Business.dll
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\bin\Debug\net6.0\NTP.Araclar.Business.pdb
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\bin\Debug\net6.0\NTP.Araclar.Contract.dll
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\bin\Debug\net6.0\NTP.Araclar.Contract.pdb
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.csproj.AssemblyReference.cache
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.AssemblyInfoInputs.cache
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.AssemblyInfo.cs
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.csproj.CopyComplete
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.dll
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\refint\NTP.Araclar.Business.dll
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\NTP.Araclar.Business.pdb
+C:\Users\Gedik\source\repos\NTP.Araclar\NTP.Araclar.Business\obj\Debug\net6.0\ref\NTP.Araclar.Business.dll
